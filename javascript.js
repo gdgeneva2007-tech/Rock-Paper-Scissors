@@ -112,6 +112,7 @@ function checkScore(){
         button1.disabled=true;
         button2.disabled=true;
         button3.disabled=true;
+        //button.disabled ---->end this game
     }
 }
 
